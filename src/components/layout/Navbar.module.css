@@ -2,8 +2,18 @@
     display: flex;
     text-decoration: none;
     justify-content: space-between;
-    padding: 1rem;
-    background-color: black;
+    padding: 2rem;
+    background-color: #410063;
+    
+}
+
+.navbar h1 {
+    color: #FFF;
+}
+
+.navbar h1:hover {
+    transition: .5s;
+    color: #ffbb33;
 }
 
 .list {
@@ -24,3 +34,4 @@
 .item a:hover {
     color: #ffbb33;
 }
+

@@ -1,0 +1,32 @@
+.project_card_container {
+    display: flex;
+    width: 100%;
+    margin: 0 auto;
+    flex-wrap: wrap;
+}
+
+.newproject_container {
+    padding: 10em;
+}
+
+.newproject_container h1 {
+    margin-bottom: 0.5em;
+}
+
+.newproject_container p {
+    color: #b3b3b3;
+}
+
+.project_container {
+    padding: 2em;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.title_container {
+    margin-bottom: 2em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
